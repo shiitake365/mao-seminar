@@ -1,5 +1,5 @@
 # 真央ゼミWebサイト
-CR大学aaa
+CR大学aaabbb
 真央ゼミのWebサイト用リポジトリです。
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
